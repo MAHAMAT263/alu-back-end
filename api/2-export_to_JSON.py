@@ -1,10 +1,12 @@
 #!/usr/bin/python3
+"""
+Uses https://jsonplaceholder.typicode.com along with an employee ID to
+return information about the employee's todo list progress
+"""
 
 import json
 import requests
 from sys import argv
-
-""" export to JSON"""
 
 if __name__ == '__main__':
     userId = argv[1]
