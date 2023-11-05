@@ -2,6 +2,8 @@
 
 if __name__ == "__main__":
 
+    """ Dictionary of list of dictionaries """
+
     import json
     import requests
     import sys

@@ -2,6 +2,7 @@
 
 import requests
 import sys
+""" gather data from an API """
 
 
 if __name__ == '__main__':
